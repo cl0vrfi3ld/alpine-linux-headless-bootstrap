@@ -146,7 +146,7 @@ _updt_apkovl() {
 # URL redirects to apkovl file on github master: is.gd shortener provides basic analytics.
 # Analytics are public and can be checked at https://is.gd/stats.php?url=apkovl_master
 # Privacy policy: https://is.gd/privacy.php
-local file_url="https://is.gd/apkovl_master"
+local file_url="https://github.com/macmpi/alpine-linux-headless-bootstrap/raw/main/headless.apkovl.tar.gz"
 local sha_url="https://github.com/macmpi/alpine-linux-headless-bootstrap/raw/main/headless.apkovl.tar.gz.sha512"
 local updt_status="failed, keeping original version"
 
